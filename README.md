@@ -6,6 +6,12 @@ conda update anaconda-navigator
 
 
 Change working directory for jupyter notebooks on Anaconda
+
+## Activate conda
+
+conda activate 
+
+## Generate config
 jupyter notebook --generate-config
 This will generate a file at C:\Users\tsingh\.jupyter
     
